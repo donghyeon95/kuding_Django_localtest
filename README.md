@@ -1,0 +1,1 @@
+# kuding_Django_localtest
